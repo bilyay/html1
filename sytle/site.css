@@ -1,0 +1,27 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: larger;  
+    margin: 2% 10% 10% 10% ; 
+}
+
+h3{
+  color:#607274;  
+  font-size: medium;
+}
+a{
+    color: #96E9C6;
+    
+}
+a:link{
+    color:#5dbc95;
+    text-decoration: none;
+}
+a:visited{
+    color:#9DBC98;
+}
+a:hover{
+    color: #5ac1c4;
+}
+a:active{
+    color: #f57b2e;
+}
